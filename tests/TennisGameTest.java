@@ -43,8 +43,6 @@ public class TennisGameTest {
 		game.player2Scored();
 		game.player2Scored();
 		
-		game.player1Scored();
-		game.player2Scored();
 		//Act
 		String score = game.getScore() ;
 		// Assert
